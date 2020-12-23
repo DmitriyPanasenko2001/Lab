@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  main.cpp
+C:\Users\crefi\OneDrive\Рабочий стол\Дмитрий Панасенко\lab2\lab2\lab2\main.cpp(17,12): warning C4101: mark: неиспользованная локальная переменная
+C:\Users\crefi\OneDrive\Рабочий стол\Дмитрий Панасенко\lab2\lab2\lab2\main.cpp(16,19): warning C4101: mesto: неиспользованная локальная переменная
+  Создание кода...
+  lab2.vcxproj -> C:\Users\crefi\OneDrive\Рабочий стол\Дмитрий Панасенко\lab2\lab2\Debug\lab2.exe
