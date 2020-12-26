@@ -1,0 +1,9 @@
+﻿  myClass.cpp
+C:\Users\Димоооооон\t\Lab\course\Panasenko\myClass.h(8,32): warning C4305: инициализация: усечение из "double" в "float"
+  MyForm.cpp
+C:\Users\Димоооооон\t\Lab\course\Panasenko\myClass.h(9,32): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Димоооооон\t\Lab\course\Panasenko\myClass.h(8,32): warning C4305: инициализация: усечение из "double" в "float"
+  Создание кода...
+C:\Users\Димоооооон\t\Lab\course\Panasenko\myClass.h(9,32): warning C4305: инициализация: усечение из "double" в "float"
+  myClass.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Panasenko.vcxproj -> C:\Users\Димоооооон\t\Lab\course\Debug\Panasenko.exe

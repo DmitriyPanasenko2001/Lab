@@ -1,0 +1,3 @@
+C:\Users\andre\OneDrive\Рабочий стол\Курсовая\Panasenko\Debug\Panasenko.vcxprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Рабочий стол\Курсовая\Panasenko\Debug\Panasenko.MyForm.resources
+C:\Users\andre\OneDrive\Рабочий стол\Курсовая\Panasenko\Debug\Panasenko.vcxproj.GenerateResource.cache
